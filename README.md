@@ -1,6 +1,4 @@
-# rfid-record-player
-
-RFID Record Player 🎵
+# rfid-record-player 🎵
 
 A physical record player that plays music by scanning RFID-tagged "records". Tap a tag, and it streams the matching track straight from Spotify. Built on an ESP32-S3 with an RC522 RFID reader, DFPlayer Mini, and a custom motor driver circuit, with full Spotify Web API OAuth handled entirely on-device (no companion app required).
 
