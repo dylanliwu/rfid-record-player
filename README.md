@@ -4,7 +4,8 @@ A physical record player that plays music by scanning RFID-tagged "records". Tap
 
 ![CAD](images/cad_top.png)
 ![CAD](images/cad_bottom.png)
-![Testing electronics](images/electronics)
+![Testing electronics](images/electronics.jpeg)
+![Design Inspiration](images/reference_idea.png)
 
 ## Highlights
 
