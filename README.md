@@ -2,12 +2,10 @@
 
 A physical record player that plays music by scanning RFID-tagged "records". Tap a tag and it streams the matching track from Spotify. The ESP32-S3 talks to the Spotify API directly, with no backend server or companion app.
 
-<p>
-  <img src="images/cad_top.png" width="300">
-  <img src="images/cad_bottom.png" width="300">
-  <img src="images/electronics.jpeg" width="300">
-  <img src="images/reference_idea.JPG" width="300">
-</p>
+<img src="images/cad_top.png" width="500"><br>
+<img src="images/cad_bottom.png" width="500"><br>
+<img src="images/electronics.jpeg" width="500"><br>
+<img src="images/reference_idea.JPG" width="500">
 
 ## Highlights
 
