@@ -106,11 +106,3 @@ int httpCode = https.PUT(body);   // 204 = playing
 ```
 4. Flash the sketch to the ESP32-S3.
 5. Open Spotify on any device so there's an active player, then tap a tag.
-
-> Never commit your real credentials.
-
-## Power debugging
-
-The ESP32 was browning out when the motor started, because current spikes on the shared rail pulled the voltage down. Powering everything through an LM2596 buck converter fixed it.
-
-![Power setup](images/power.jpg)
