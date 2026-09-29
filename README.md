@@ -21,8 +21,6 @@ A physical record player that plays music by scanning RFID-tagged "records". Tap
 - Motor driver circuit
 - LM2596 buck converter
 
-![Internals](images/internals.jpg)
-
 ### RC522 wiring
 
 | RC522 | ESP32-S3 |
@@ -93,7 +91,6 @@ String body = "{\"uris\":[\"" + trackUri + "\"]}";
 int httpCode = https.PUT(body);   // 204 = playing
 ```
 
-Full source: [`rfid_code/rfid_code.ino`](rfid_code/rfid_code.ino)
 
 ## Setup
 
